@@ -66,7 +66,7 @@ set /p page= Enter the server you would like to test:
 cls
 echo Checking "%page%" (this may take a bit.)
 echo This option is still in beta, so it may or may not work, please report issues on the github page:
-echo github.com/CorbinMakesStuff/batch-multitool
+echo github.com/NightMakesStuff/batch-Multitool
 ping %page%>nul
 cls
 if errorlevel 1 (
