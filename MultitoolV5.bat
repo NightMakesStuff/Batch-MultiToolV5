@@ -194,7 +194,7 @@ echo.
 echo 1 - The Matrix
 echo 2 - Fake ransomware [press any key to exit the fake ransom screen]
 echo 3 - Copy IP info to clipboad [Your real ip]
-echo 4 - Kali linux [Must have Kali Linux installed]
+echo 4 - Arch linux [Must have Arch Linux installed]
 echo 5 - Credits
 echo 6 - Cancel (go back to home page)
 echo ===========================================================================================================
@@ -429,11 +429,11 @@ goto secretcmds
 
 
 
-:kali
+:arch
 cls
-echo opening kali...
+echo opening arch...
 cls
-kali
+arch
 goto ram
 
 
@@ -450,7 +450,7 @@ goto ram
 :: github.com/NightMakesStuff
 
 :: find this work on github!
-:: github.com/NightMakesStuff/batch-multitool
+:: github.com/NightMakesStuff/batch-multitoolV5
 
 
 
