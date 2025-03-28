@@ -112,7 +112,7 @@ cls
 title Night's Multitool - Shutting down computers on a LAN network
 echo Click "Browse" to select computers to shut down.
 echo This option is still in beta, so it may or may not work, please report issues on the github page:
-echo github.com/CorbinMakesStuff/batch-multitool
+echo github.com/NightMakesStuff/batch-multitool
 shutdown -i
 goto home
 
